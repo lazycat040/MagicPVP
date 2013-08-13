@@ -1,0 +1,7 @@
+In version 1.06 I setup a permission node to summon the lightning. Ran fine with permissions. (Tested via PermissionsEx custom group!)
+In version 1.05 I wrote the code for lightning requiring 6 gold nuggets and it ran fine.
+In version 1.04 I changed my code completely to register the Wizardry class as a Listener thread.
+In version 1.03 I changed the code to an event and ran across error. Left it alone.
+In version 1.02 I changed the concept of the plugin and wrote a simple lightning command.
+In version 1.01 I was implementing this plugin as a Player Reporter. Wrote little to no code.
+In version 1.00 I played around learning the bukkit environment. No real progress there.
