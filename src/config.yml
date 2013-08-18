@@ -1,0 +1,19 @@
+wizardry:
+  summonFire:
+    enabled: true
+    amountBlazePowder: 3
+    range: 200
+    infiniteCreative: true
+  summonLightning:
+    enabled: true
+    amountGoldNugget: 6
+    range: 200
+    infiniteCreative: true
+nature:
+  growTree:
+    enabled: true
+    amountBone: 1
+    amountSapling: 1
+    range: 200
+    infiniteCreative: true
+    

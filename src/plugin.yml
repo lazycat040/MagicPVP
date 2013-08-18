@@ -1,0 +1,17 @@
+name: Magic
+main: com.yahoo.legos2find2.magic.Magic
+version: 1.11.11
+author: Ezra Stahl
+
+permissions:
+  magic.*:
+    description: Gives permission to all magic spells and commands!
+    children:
+      magic.wizardry.lightning: true
+      magic.wizardry.fire: true
+  magic.wizardry.lightning:
+    description: Gives permission to summon the lightning spell!
+    default: true
+  magic.wizardry.fire:
+    description: Gives permission to summon the fire spell!
+    default: true
